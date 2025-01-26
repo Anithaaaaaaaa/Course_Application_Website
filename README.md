@@ -4,7 +4,9 @@ This project is a simple HTML registration form designed to capture user details
 ~Features
 
 *User-friendly registration form
+
 *Responsive design for all screen sizes
+
 *Supports basic form validation (using HTML attributes)
 
 ~Prerequisites
