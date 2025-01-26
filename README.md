@@ -85,6 +85,8 @@ registration-form/
 
 *Repository link - https://github.com/Anithaaaaaaaa/Course_Website.git
 
+*Chrome link - https://anithachandran.neocities.org/Course_Registration/
+
 
 ~Contact
 
