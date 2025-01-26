@@ -81,7 +81,7 @@ registration-form/
 *Open a pull request.
 
 
-~Link
+~Links
 
 *Repository link - https://github.com/Anithaaaaaaaa/Course_Website.git
 
