@@ -26,7 +26,7 @@ This project is a simple HTML registration form designed to capture user details
 ~Installation
 
 Clone the repository:
-*git clone: https://github.com/Anithaaaaaaaa/LibraryManagementSystem.git
+*git clone: https://github.com/Anithaaaaaaaa/Course_Website.git
 
 *Navigate to the project directory:cd registration-form
 
@@ -83,7 +83,7 @@ registration-form/
 
 ~Link
 
-*Repository link - https://github.com/Anithaaaaaaaa/LibraryManagementSystem.git
+*Repository link - https://github.com/Anithaaaaaaaa/Course_Website.git
 
 
 ~Contact
