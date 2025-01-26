@@ -34,12 +34,12 @@ Clone the repository:
 
 
 ~File Structure
-
+```
 registration-form/
 ├── index.html      # Main HTML file for the form
 ├── style.css       # Optional CSS for styling
 └── README.md       # Documentation file
-
+```
 
 ~How to Use
 
