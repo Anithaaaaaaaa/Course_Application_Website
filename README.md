@@ -52,6 +52,7 @@ registration-form/
 
 
 🤝 Contributing
+
 Want to improve this project? Follow these steps:
 
 1.Fork the repository
